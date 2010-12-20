@@ -1,0 +1,12 @@
+C:\Projects\QueryMyDesign\src\QueryMyDesign\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\QueryMyDesign\src\QueryMyDesign\bin\Debug\CodeContracts\QueryMyDesign.Contracts.dll
+C:\Projects\QueryMyDesign\src\QueryMyDesign\bin\Debug\CodeContracts\QueryMyDesign.Contracts.pdb
+C:\Projects\QueryMyDesign\src\QueryMyDesign\bin\Debug\QueryMyDesign.dll
+C:\Projects\QueryMyDesign\src\QueryMyDesign\bin\Debug\QueryMyDesign.pdb
+C:\Projects\QueryMyDesign\src\QueryMyDesign\bin\Debug\Mono.Cecil.dll
+C:\Projects\QueryMyDesign\src\QueryMyDesign\obj\Debug\Decl\QueryMyDesign.dll
+C:\Projects\QueryMyDesign\src\QueryMyDesign\obj\Debug\Decl\QueryMyDesign.pdb
+C:\Projects\QueryMyDesign\src\QueryMyDesign\obj\Debug\QueryMyDesign.rewritten
+C:\Projects\QueryMyDesign\src\QueryMyDesign\obj\Debug\QueryMyDesign.dll
+C:\Projects\QueryMyDesign\src\QueryMyDesign\obj\Debug\QueryMyDesign.pdb
+C:\Projects\QueryMyDesign\src\QueryMyDesign\obj\Debug\CodeContractAnalysisRun.log
